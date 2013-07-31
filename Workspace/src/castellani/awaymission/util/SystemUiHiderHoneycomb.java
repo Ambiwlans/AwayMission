@@ -1,4 +1,4 @@
-package AwayMission.util;
+package castellani.awaymission.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

@@ -1,4 +1,4 @@
-package AwayMission.util;
+package castellani.awaymission.util;
 
 import android.app.Activity;
 import android.os.Build;
