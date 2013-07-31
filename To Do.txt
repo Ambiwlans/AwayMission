@@ -1,7 +1,6 @@
 a- Change InGame to a bootstrap class only.
 a- Create more classes and import trees as needed
 	- Graphics, controls, game logic. To start with anyways.
-a- set up gitignore to clean out all the dev generated BS.
 c- find/make some basic graphics put them in resources in a sensible fashion
 c- read up some tutorials about android game development
 	- http://www.kilobolt.com seems like the place to check out.
